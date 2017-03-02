@@ -5,15 +5,15 @@
     <name>CategoriesPage</name>
     <message>
         <source>Categories</source>
-        <translation type="unfinished">Kategorier</translation>
+        <translation>Kategorier</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort</translation>
     </message>
     <message>
         <source>Add category</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till kategori</translation>
     </message>
 </context>
 <context>
@@ -47,7 +47,7 @@
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort</translation>
     </message>
 </context>
 <context>
@@ -62,7 +62,7 @@
     </message>
     <message>
         <source>Version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Version %1</translation>
     </message>
 </context>
 <context>
@@ -81,27 +81,27 @@
     <name>DataBase</name>
     <message>
         <source>Required sqlite driver not available!</source>
-        <translation type="unfinished"></translation>
+        <translation>Obligatorisk sqlite-drivrutin saknas!</translation>
     </message>
     <message>
         <source>Food</source>
-        <translation type="unfinished"></translation>
+        <translation>Mat</translation>
     </message>
     <message>
         <source>Travels</source>
-        <translation type="unfinished"></translation>
+        <translation>Resor</translation>
     </message>
     <message>
         <source>Cannot open data base: %1!</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte öppna databasen %1!</translation>
     </message>
     <message>
         <source>Cannot find local storage dir %1!</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte hitta lokal lagringsmapp %1!</translation>
     </message>
     <message>
         <source>There is no data base with name %1!</source>
-        <translation type="unfinished"></translation>
+        <translation>Det finns ingen databas med namnet %1!</translation>
     </message>
 </context>
 <context>
@@ -113,15 +113,15 @@
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort</translation>
     </message>
     <message>
         <source>Delete category</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort kategori</translation>
     </message>
     <message>
         <source>All your data related with this category (%1) will be lost!</source>
-        <translation type="unfinished"></translation>
+        <translation>All data relaterad till denna kategori (%1) kommer att tas bort!</translation>
     </message>
 </context>
 <context>
@@ -133,11 +133,11 @@
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort</translation>
     </message>
     <message>
         <source>Delete item</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort objekt</translation>
     </message>
 </context>
 <context>
@@ -175,41 +175,41 @@
     </message>
     <message>
         <source>Quick add</source>
-        <translation type="unfinished"></translation>
+        <translation>Ny post</translation>
     </message>
 </context>
 <context>
     <name>ImportDataDialog</name>
     <message>
         <source>Import</source>
-        <translation type="unfinished"></translation>
+        <translation>Importera</translation>
     </message>
     <message>
         <source>Will be imported data from the old Expense app</source>
-        <translation type="unfinished"></translation>
+        <translation>Importerad data från den gamla Expense-appen</translation>
     </message>
     <message>
         <source>Data already imported</source>
-        <translation type="unfinished"></translation>
+        <translation>Data redan importerad</translation>
     </message>
     <message>
         <source>Import data</source>
-        <translation type="unfinished"></translation>
+        <translation>Importera data</translation>
     </message>
 </context>
 <context>
     <name>ImportDataPage</name>
     <message>
         <source>Import data</source>
-        <translation type="unfinished"></translation>
+        <translation>Importera data</translation>
     </message>
     <message>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation>Klar</translation>
     </message>
     <message>
         <source>Import in progress...</source>
-        <translation type="unfinished"></translation>
+        <translation>Import pågår...</translation>
     </message>
 </context>
 <context>
@@ -217,11 +217,11 @@
     <message>
         <source>%1 %2 in %3</source>
         <comment>1 is amount, 2 is currency and 3 is the category</comment>
-        <translation type="unfinished">%1 %2 på %3</translation>
+        <translation>%1 %2 på %3</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort</translation>
     </message>
 </context>
 <context>
@@ -245,48 +245,48 @@
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till</translation>
     </message>
     <message>
         <source>New category</source>
-        <translation type="unfinished"></translation>
+        <translation>Ny kategori</translation>
     </message>
 </context>
 <context>
     <name>NewCurrencyDialog</name>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till</translation>
     </message>
     <message>
         <source>Currency</source>
         <comment>placeholder for currency</comment>
-        <translation type="unfinished">Valuta</translation>
+        <translation>Valuta</translation>
     </message>
     <message>
         <source>New currancy</source>
-        <translation type="unfinished"></translation>
+        <translation>Ny valuta</translation>
     </message>
 </context>
 <context>
     <name>NewEntryDialog</name>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till</translation>
     </message>
     <message>
         <source>Amount</source>
         <comment>placeholder for amount</comment>
-        <translation type="unfinished"></translation>
+        <translation>Summa</translation>
     </message>
     <message>
         <source>Desc</source>
         <comment>placeholder for description</comment>
-        <translation type="unfinished"></translation>
+        <translation>Beskrivning</translation>
     </message>
     <message>
         <source>New entry</source>
-        <translation type="unfinished"></translation>
+        <translation>Ny post</translation>
     </message>
 </context>
 <context>
@@ -298,26 +298,26 @@
     </message>
     <message>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation>Återställ</translation>
     </message>
     <message>
         <source>Reset database</source>
-        <translation type="unfinished"></translation>
+        <translation>Återställ databas</translation>
     </message>
     <message>
         <source>All your data will be irreversibly lost!</source>
-        <translation type="unfinished"></translation>
+        <translation>All din data kommer att förloras för gott!</translation>
     </message>
 </context>
 <context>
     <name>Settings</name>
     <message>
         <source>Incorrect index of currency</source>
-        <translation type="unfinished"></translation>
+        <translation>Felaktigt index för valutan</translation>
     </message>
     <message>
         <source>Currency &apos;%s&apos; already exists</source>
-        <translation type="unfinished"></translation>
+        <translation>Valutan &quot;%s&quot; finns redan</translation>
     </message>
 </context>
 <context>
@@ -336,15 +336,15 @@
     </message>
     <message>
         <source>Add new currency</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till ny valuta</translation>
     </message>
     <message>
         <source>Reset database</source>
-        <translation type="unfinished"></translation>
+        <translation>Återställ databas</translation>
     </message>
     <message>
         <source>Import data</source>
-        <translation type="unfinished"></translation>
+        <translation>Importera data</translation>
     </message>
 </context>
 </TS>
