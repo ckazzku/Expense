@@ -19,11 +19,6 @@
 <context>
     <name>CategoryPage</name>
     <message>
-        <source>in %1 this month</source>
-        <comment>subtitle of the amount spent in the CategoryView</comment>
-        <translation>på %1 denna månad</translation>
-    </message>
-    <message>
         <source>%1 %</source>
         <translation>%1 %</translation>
     </message>
@@ -31,10 +26,6 @@
         <source>of the total</source>
         <comment>subtitle of the percentagebar</comment>
         <translation>av totalt</translation>
-    </message>
-    <message>
-        <source>This month:</source>
-        <translation>Denna månad:</translation>
     </message>
     <message>
         <source>%1 %2</source>
@@ -48,6 +39,26 @@
     <message>
         <source>Delete</source>
         <translation>Ta bort</translation>
+    </message>
+    <message>
+        <source>For all time</source>
+        <translation>För all tid</translation>
+    </message>
+    <message>
+        <source>For current month</source>
+        <translation>För aktuell månad</translation>
+    </message>
+    <message>
+        <source>for this month</source>
+        <translation>för denna månad</translation>
+    </message>
+    <message>
+        <source>for all time</source>
+        <translation>för all tid</translation>
+    </message>
+    <message>
+        <source>Expenses:</source>
+        <translation>Utgifter:</translation>
     </message>
 </context>
 <context>
@@ -143,11 +154,6 @@
 <context>
     <name>FirstPage</name>
     <message>
-        <source>Last Month: %1 %2</source>
-        <comment>1 is amount and 2 is currency</comment>
-        <translation>Förra månaden: %1 %2</translation>
-    </message>
-    <message>
         <source>Total: %1 %2</source>
         <comment>1 is amount and 2 is currency</comment>
         <translation>Totalt: %1 %2</translation>
@@ -175,7 +181,24 @@
     </message>
     <message>
         <source>Quick add</source>
-        <translation>Ny post</translation>
+        <translation>Ny utgiftspost</translation>
+    </message>
+    <message>
+        <source>Last month: %1 %2</source>
+        <comment>1 is amount and 2 is currency</comment>
+        <translation>Senaste månaden: %1 %2</translation>
+    </message>
+</context>
+<context>
+    <name>HystoryPage</name>
+    <message>
+        <source>History</source>
+        <translation>Historik</translation>
+    </message>
+    <message>
+        <source>%1 %2</source>
+        <comment>1 is amount and 2 is currency</comment>
+        <translation>%1 %2</translation>
     </message>
 </context>
 <context>
@@ -222,18 +245,6 @@
     <message>
         <source>Delete</source>
         <translation>Ta bort</translation>
-    </message>
-</context>
-<context>
-    <name>MonthsPage</name>
-    <message>
-        <source>History</source>
-        <translation>Historik</translation>
-    </message>
-    <message>
-        <source>%1 %2</source>
-        <comment>1 is amount and 2 is currency</comment>
-        <translation>%1 %2</translation>
     </message>
 </context>
 <context>
